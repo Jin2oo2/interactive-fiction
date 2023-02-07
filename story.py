@@ -8,13 +8,19 @@ if path == 'Desert':
     print()
     print('They started their travel to the world tree again. With the help of the magical water, the kings and his company passed through the vast desert. ')
 
-#elif path == 'Iceland':
+elif path == 'Iceland':
+    print()
+    print('King and his companions have to go through Vast glaciers. King managed to make his companions follow the path as the angle of destiny guiding him through. ')
+    print()
+    print('As they travelled deeper into the heart of the island, they discovered a [[ Hidden valley]] teeming with wildlife and rich, fertile land. The king was awestruck by the beauty of this unspoiled land and felt a strong connection to it. ')
 
+elif path == 'Volcano':
+    print()
+    print('Volcano')
 
-#elif path == 'Jungle':
-
-
-#else:
+else:
+    print()
+    print('Jungle')
 
 #Conclusion
 print()
