@@ -16,11 +16,17 @@ elif path == 'Iceland':
 
 elif path == 'Volcano':
     print()
-    print('Volcano')
+    print('As the king and his platoon began their ascend to the mouth of the volcano they saw an ash cloud form above the mouth as the folcano started erupting. As the volcano erupted they armed themselves with their shields and defended themselves rom the ashes which started melting their shields too using their will and strength the king and his knights rode their  horses with skill and avoided the ashes. They reached the volcano and begin their descend from the mouth to the roots of the world tree')
 
 else:
     print()
-    print('Jungle')
+    print('There came a day in the forest, the king and his men were confronted by wild beasts. After, they won against them but the king faced serious problem like he was slightly injured. Immediately, the king needs to cure as soon as possible. King\'s men try to speak with the angel of destiny and promptly the angle of destiny appeared in front of the king and his mens. She suggested two different ways either going to his own kingdom or going to a nearby village ')
+    print()
+    print('At that time, it is not possible to go kingdom as the king had only a few days left to reach the world tree, Instead of wasting his days, he took decision that he would get cured in a nearby village and the king and his men started to walk in the jungle and start to find nearby village, where the king can get cured as soon as posssible. ')
+    print()
+    print('After a lot of searching and walking so far in the jungle , the king and his men found a village. After this, the king and his men going to there and got some information about the village. They knew that this is a tribal village, where the king absolutely get cured here and in a very short time, The king would get a quick recovery. After getting this information from the one of the men from the village, The king and his men reached the house, where the one of the physician can cure the king but he was not available at that time so the king and his men getting disappointed and started to search a new way to cure king as soon as possible. ')
+    print('The king and his men reached the house, where the one of the physician can cure the king but he was not available at that time so the king and his men getting disappointed and started to search a new way to cure king as soon as possible, He suggested how can the king can cure as soon as possible and he tried to cure the king. After a long time, the king was cured and everyone faced happy feelings at that time, the king and his men continuing the running in the jungle and try to reach the world tree. ')
+
 
 #Conclusion
 print()
